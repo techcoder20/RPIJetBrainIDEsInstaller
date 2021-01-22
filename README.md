@@ -21,5 +21,5 @@ This repository contains the installation script for installing majority of the 
 ## RubyMine   
 `wget -qO- https://raw.githubusercontent.com/techcoder20/RPIJetbrainIDEsInstaller/main/InstallRubyMine.sh | bash`
 
-## RubyMine   
+## WebStorm   
 `wget -qO- https://raw.githubusercontent.com/techcoder20/RPIJetbrainIDEsInstaller/main/InstallWebStorm.sh | bash`
