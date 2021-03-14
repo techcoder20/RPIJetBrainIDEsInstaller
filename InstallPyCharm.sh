@@ -5,7 +5,7 @@ downloadlink=https://download-cf.jetbrains.com/python/pycharm-community-2020.3.3
 name=pycharm-community
 
 # Get dependencies
-sudo apt install python-pip openjdk-11-jdk
+sudo apt -y install python-pip openjdk-11-jdk
 
 #Removing if pycharm-community-2020.3.3.tar.gz already downloaded
 rm $name.tar.gz
