@@ -4,7 +4,7 @@ This repository contains the installation script for installing majority of the 
 # Installation
 
 ## PyCharm   
-`wget -qO- https://raw.githubusercontent.com/techcoder20/RPIJetbrainIDEsInstaller/main/InstallPycharm.sh | bash`   
+`wget -qO- https://raw.githubusercontent.com/techcoder20/RPIJetbrainIDEsInstaller/main/InstallPyCharm.sh | bash`   
 
 ## IntelliJ   
 `wget -qO- https://raw.githubusercontent.com/techcoder20/RPIJetbrainIDEsInstaller/main/InstallIntelliJ.sh | bash`   
